@@ -10,6 +10,6 @@ dataset = {
 
 country = input("Enter country name: ")
 
-capital = dataset.get(country,"Capital not found.")
+capital = dataset.get(country,"Data not found.")
 
 print(capital)
